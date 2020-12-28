@@ -28,6 +28,7 @@
 	S'il n'y a pas d'erreur lors de l'inscription, l'application créer son compte (requête INSERT sur la base de données ROOM)
 </p>
 <h1>Page d'accueil</h1>
+<img src="https://raw.githubusercontent.com/K0RBEY/Images/main/Projet4A/homepage.png" width="300">
 <p>Une fois que l'utilisateur s'est connecté ou s'est créé un compte, l'application le renvoit sur la page d'accueil.
 	En arrivant sur cette page d'accueil, l'application fait des requêtes sur l'API "http://api.openweathermap.org/data/2.5/" pour connaitre la météo dans les 10 plus grandes villes de France.
 	Le temps de chaque ville est affiché grâce à un RecyclerView.
