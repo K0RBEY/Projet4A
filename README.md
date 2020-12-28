@@ -16,7 +16,7 @@
 		<li>La validation du mot de passe</li>
 	</ul>
 	Après avoir renseigné ces champs, l'utilisateur n'a plus qu'à cliquer sur le bouton "créer" pour finaliser la création de son compte.
-	Si il y a une erreur lors de la création du compte, l'application distingue 4 cas possibles :<br>
+	Si il y a une erreur lors de la création du compte, l'application distingue 4 cas possibles :<br><br>
 	<ul>
 		<li>Le formulaire non-rempli ou partiellement rempli : dans ce cas l'application spécifie à l'uilisateur qu'il est nécéssaire de remplir le formulaire entièrement</li>
 		<li>L'adresse email est déjà associée à un compte existant : dans ce cas nous spécifions à l'utilisateur que l'adresse email renseignée est déjà utilisée pour cette application</li>
