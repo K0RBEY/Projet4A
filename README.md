@@ -1,5 +1,5 @@
 <h1>Login</h1>
-<img src="https://raw.githubusercontent.com/K0RBEY/Images/main/Projet4A/login.png" width="200">
+<img src="https://raw.githubusercontent.com/K0RBEY/Images/main/Projet4A/login.png" width="400">
 <p>Lorsque vous êtes sur cette page de connexion, vous avez deux champs:<br>
 	<ul>
 		<li>Un champ réservé à l'adresse email de l'utilisateur</li>
