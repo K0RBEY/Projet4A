@@ -1,5 +1,5 @@
 <h1>Login</h1>
-<p>Lorsque vous êtes sur cette page de connexion, vous avez deux champs:
+<p>Lorsque vous êtes sur cette page de connexion, vous avez deux champs:<br>
 	<ul>
 		<li>Un champ réservé à l'adresse email de l'utilisateur</li>
 		<li>Un champ réservé au mot de passe de l'utilisateur</li>
