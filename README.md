@@ -9,7 +9,7 @@
 	Pour autoriser la connexion, l'application vérifie si l'utilisateur existe et s'il existe, elle vérifie que le mot de passe renseigné correspond bien à celui du compte (requête GET sur la base de données ROOM).
 </p>
 <h1>Inscription</h1>
-<img src="https://raw.githubusercontent.com/K0RBEY/Images/main/Projet4A/register.png">
+<img src="https://raw.githubusercontent.com/K0RBEY/Images/main/Projet4A/register.png" width="300">
 <p>Il se peut que l'utilisateur n'ai pas de compte créé, c'est pourquoi un bouton "créer un compte" se situe en dessous de "se connecter".
 	En arrivant sur le formulaire d'inscription, l'utilisateur doit renseigner 3 champs:<br>
 	<ul>
